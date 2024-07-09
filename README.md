@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Sandeep Kumar 👋
 
-<!--
-**sandeepsheenu/sandeepsheenu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer who loves building software products in Python. I'm enthusiastic about problem-solving and enjoy tackling challenging problems. I specialize in developing APIs, creating WordPress plugins, and integrating E-commerce solutions. Let's connect and collaborate!
 
-Here are some ideas to get you started:
+🌟 **Specialties:**
+- Python Development
+- WordPress Plugin and Theme Development
+- E-commerce Integration
+- API Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Find me around the web:**
+- [LinkedIn]([https://www.linkedin.com/in/sandeepkumar](https://www.linkedin.com/in/sandeepkumarulaganathan/))
+- [Personal Website](https://sandeepkumar-u.w3spaces.com/)
+- 
