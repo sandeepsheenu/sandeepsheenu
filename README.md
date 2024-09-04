@@ -3,6 +3,8 @@
 
 <p>I'm a software developer who loves building software products in Python. I'm enthusiastic about problem-solving and enjoy tackling challenging problems. I specialize in developing APIs, creating WordPress plugins, and integrating E-commerce solutions. Let's connect and collaborate! </p>
 
+
+
 <h2>🛠 Skills</h2>
 <p>
 
