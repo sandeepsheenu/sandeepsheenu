@@ -57,19 +57,12 @@ Building scalable products with Python, Node.js, AI, and Cloud.
 
 ## 📊 GitHub Stats
 
-### ⭐ Contribution Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepsheenu&show_icons=true&theme=default)
 
 ### 🔥 Most Used Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepsheenu&layout=compact&theme=default)
 
 ### 📈 Streak Stats  
 ![GitHub Streak](https://streak-stats.demolab.com?user=sandeepsheenu&theme=default)
-
----
-
-## 👁 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=sandeepsheenu&label=Profile%20Views&color=brightgreen)
 
 ---
 
