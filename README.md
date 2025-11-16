@@ -1,105 +1,85 @@
+<h1 align="center">👋 Hi, I'm Sandeep Kumar Ulaganathan</h1>
 
-<h1>Hi 👋, I'm sandeepkumar</h1>
-
-<p>I'm a software developer who loves building software products in Python. I'm enthusiastic about problem-solving and enjoy tackling challenging problems. I specialize in developing APIs, creating WordPress plugins, and integrating E-commerce solutions. Let's connect and collaborate! </p>
-
-
-
-<h2>🛠 Skills</h2>
-<p>
-
-<a target="_blank" href="https://reactjs.org/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="react" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://www.w3schools.com/css/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://nodejs.org" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://expressjs.com" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://graphql.org" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="graphql" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://opencv.org/" target="_blank" style="display: inline-block;">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://scikit-learn.org/" target="_blank" style="display: inline-block;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://www.mongodb.com/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://www.postgresql.org" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://www.chartjs.org" target="_blank" style="display: inline-block;">
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://www.docker.com/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://aws.amazon.com" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://firebase.google.com/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="firebase" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://aws.amazon.com/amplify/" target="_blank" style="display: inline-block;">
-<img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://www.djangoproject.com/" target="_blank" style="display: inline-block;">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://postman.com" target="_blank" style="display: inline-block;">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://git-scm.com/" target="_blank" style="display: inline-block;">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
-</a>
-
+<p align="center">
+<strong>Backend Engineer • AI/ML Engineer • SaaS Builder</strong><br>
+Building scalable products with Python, Node.js, AI, and Cloud.
 </p>
 
+---
 
+## 🚀 About Me  
+- Backend & AI/ML engineer focused on scalable architectures.  
+- Currently building two SaaS products:  
+  - 🔮 **Astrology API Platform**  
+  - ⭐ **Testimonials Hub**  
+- Love working on AI agents, automations, cloud-native systems & high-performance APIs.
 
-<h2>📪 Contact me</h2>
-<p>
-<a target="_blank" href="https://www.linkedin.com/in/sandeepkumarulaganathan/" target="_blank" style="display: inline-block;">
-<img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
-</a>
+---
 
-</p>
+# 🛠 Tech Stack & Tools
+
+### **🚀 Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+
+### **⚙ Backend Frameworks**
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+
+### **🧠 AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+
+### **☁ Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-F05032?logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?logo=githubactions&logoColor=white)
+
+### **🗄 Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+### ⭐ Contribution Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepsheenu&show_icons=true&theme=default)
+
+### 🔥 Most Used Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepsheenu&layout=compact&theme=default)
+
+### 📈 Streak Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=sandeepsheenu&theme=default)
+
+---
+
+## 👁 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=sandeepsheenu&label=Profile%20Views&color=brightgreen)
+
+---
+
+## 🚀 Featured Products  
+### 🔮 Astrology API SaaS  
+High-performance astrology APIs built with Python & Node.js.
+
+### ⭐ Testimonials Hub  
+SaaS for collecting, managing & publishing testimonials with ease.
+
+---
+
+<h3 align="center">⭐ If you like my work, consider starring my repositories!</h3>
