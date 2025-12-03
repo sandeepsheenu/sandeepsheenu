@@ -12,7 +12,7 @@ Building scalable products with Python, Node.js, AI, and Cloud.
 - Currently building two SaaS products:  
   - 🔮 **Astrology API Platform**  
   - ⭐ **Testimonials Hub**  
-- Love working on AI agents, automations, cloud-native systems & high-performance APIs.
+- Passionate about AI agents, automations, cloud-native systems & high-performance APIs.
 
 ---
 
@@ -55,14 +55,12 @@ Building scalable products with Python, Node.js, AI, and Cloud.
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Streak Stats  
+(Works without Vercel or token)
 
-
-### 🔥 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepsheenu&layout=compact&theme=default)
-
-### 📈 Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=sandeepsheenu&theme=default)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sandeepsheenu&theme=default" alt="GitHub Streak"/>
+</p>
 
 ---
 
@@ -71,7 +69,7 @@ Building scalable products with Python, Node.js, AI, and Cloud.
 High-performance astrology APIs built with Python & Node.js.
 
 ### ⭐ Testimonials Hub  
-SaaS for collecting, managing & publishing testimonials with ease.
+SaaS to collect, manage & publish testimonials with ease.
 
 ---
 
