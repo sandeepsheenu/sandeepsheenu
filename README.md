@@ -55,12 +55,15 @@ Building scalable products with Python, Node.js, AI, and Cloud.
 
 ---
 
-# 📈 GitHub Streak Stats  
-(Works without Vercel or token)
+
+
+
+### 📈 GitHub Streak Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sandeepsheenu&theme=default" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=sandeepsheenu&theme=transparent&hide_border=false" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
