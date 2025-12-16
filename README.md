@@ -58,7 +58,8 @@ Building scalable products with Python, Node.js, AI, and Cloud.
 ### 📈 GitHub Streak Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sandeepsheenu" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepsheenu&show_icons=true" />
+
 </p>
 
 ---
