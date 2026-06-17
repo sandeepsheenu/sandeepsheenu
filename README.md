@@ -64,12 +64,35 @@ Building scalable products with Python, Node.js, AI, and Cloud.
 
 ---
 
-## 🚀 Featured Products  
-### 🔮 Astrology API SaaS  
-High-performance astrology APIs built with Python & Node.js.
 
-### ⭐ Testimonials Hub  
-SaaS to collect, manage & publish testimonials with ease.
+## 🚀 Featured Products
+
+<table>
+<tr>
+<td width="60%">
+
+### ⭐ Testimonials Hub
+
+The easiest way to collect, manage and showcase customer testimonials.
+
+- 🎥 Video Testimonials
+- 📝 Text Testimonials
+- 🌐 Embeddable Widgets
+- 📊 Analytics Dashboard
+- 👥 Team Collaboration
+- ⚡ API Integrations
+
+<a href="https://testimonialshub.com">
+  <img src="https://img.shields.io/badge/Live_Demo-Testimonials_Hub-blue?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="40%">
+<img src="./assets/testimonialshub-screenshot.png" width="500"/>
+</td>
+</tr>
+</table>
 
 ---
 
