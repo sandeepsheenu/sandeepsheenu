@@ -150,12 +150,6 @@ It is designed for founders, agencies, creators, service businesses, startups, a
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepsheenu&show_icons=true&theme=default" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepsheenu&layout=compact" height="170"/>
-</p>
 
 ---
 
